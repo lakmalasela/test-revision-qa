@@ -4,7 +4,7 @@ const getName = ()=>{
     
 }
 
-
+//this is get for sum
 const getSum= (a, b) =>{
  return a+b;
 
